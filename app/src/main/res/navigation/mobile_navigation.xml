@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_monitoring">
+
+    <fragment
+        android:id="@+id/navigation_monitoring"
+        android:name="com.example.power.ui.monitoring.MonitoringFragment"
+        android:label="@string/monitoring"
+        tools:layout="@layout/fragment_monitoring" />
+
+    <fragment
+        android:id="@+id/navigation_map"
+        android:name="com.example.power.ui.map.MapFragment"
+        android:label="@string/map"
+        tools:layout="@layout/fragment_map" />
+
+    <fragment
+        android:id="@+id/navigation_event"
+        android:name="com.example.power.ui.event.EventFragment"
+        android:label="@string/event"
+        tools:layout="@layout/fragment_event" />
+
+    <fragment
+        android:id="@+id/navigation_system"
+        android:name="com.example.power.ui.system.SystemFragment"
+        android:label="@string/system"
+        tools:layout="@layout/fragment_system" />
+</navigation>

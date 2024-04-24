@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">power</string>
+    <string name="monitoring">实时监测</string>
+    <string name="map">电子地图</string>
+    <string name="event">事件中心</string>
+    <string name="system">系统管理</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
