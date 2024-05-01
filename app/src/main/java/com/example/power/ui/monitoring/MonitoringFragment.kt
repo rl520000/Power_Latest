@@ -14,7 +14,7 @@ class MonitoringFragment:Fragment() {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         binding = FragmentMonitoringBinding.inflate(layoutInflater)
         return binding.root
     }
