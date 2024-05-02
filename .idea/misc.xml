@@ -4,10 +4,15 @@
       <map>
         <entry key="..\:/Android Stdio/AndroidStdioProjects/Power2/app/src/main/res/drawable-v24/buttonshapewhitebg.xml" value="0.1" />
         <entry key="..\:/Android Stdio/AndroidStdioProjects/Power2/app/src/main/res/drawable/ic_map.xml" value="0.209" />
-        <entry key="..\:/Android Stdio/AndroidStdioProjects/Power2/app/src/main/res/layout/activity_home.xml" value="0.25364583333333335" />
+        <entry key="..\:/Android Stdio/AndroidStdioProjects/Power2/app/src/main/res/drawable/ic_monitoring.xml" value="0.2245" />
+        <entry key="..\:/Android Stdio/AndroidStdioProjects/Power2/app/src/main/res/layout/activity_home.xml" value="0.2" />
         <entry key="..\:/Android Stdio/AndroidStdioProjects/Power2/app/src/main/res/layout/activity_main.xml" value="0.16847826086956522" />
-        <entry key="..\:/Android Stdio/AndroidStdioProjects/Power2/app/src/main/res/layout/fragment_event.xml" value="0.25364583333333335" />
+        <entry key="..\:/Android Stdio/AndroidStdioProjects/Power2/app/src/main/res/layout/fragment_event.xml" value="0.2" />
         <entry key="..\:/Android Stdio/AndroidStdioProjects/Power2/app/src/main/res/layout/fragment_map.xml" value="0.16847826086956522" />
+        <entry key="..\:/Android Stdio/AndroidStdioProjects/Power2/app/src/main/res/layout/fragment_monitoring.xml" value="0.16" />
+        <entry key="..\:/Android Stdio/AndroidStdioProjects/Power2/app/src/main/res/layout/item_dark.xml" value="0.176" />
+        <entry key="..\:/Android Stdio/AndroidStdioProjects/Power2/app/src/main/res/layout/item_light.xml" value="0.12630208333333334" />
+        <entry key="..\:/Android Stdio/AndroidStdioProjects/Power2/app/src/main/res/layout/item_monitor.xml" value="0.12630208333333334" />
         <entry key="..\:/Android Stdio/AndroidStdioProjects/Power2/app/src/main/res/menu/top_nav_menu.xml" value="0.25364583333333335" />
       </map>
     </option>

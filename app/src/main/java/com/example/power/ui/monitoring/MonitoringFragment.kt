@@ -18,7 +18,7 @@ class MonitoringFragment:Fragment() {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? {
+    ): View {
         binding = FragmentMonitoringBinding.inflate(layoutInflater)
         binding.recycleView.layoutManager = GridLayoutManager(requireContext(),3)
         val adapter = MonitorAdapter()
