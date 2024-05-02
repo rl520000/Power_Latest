@@ -14,9 +14,10 @@
 
         <com.google.android.material.textfield.TextInputLayout
             android:id="@+id/search"
-            android:layout_width="300dp"
+            android:layout_width="400dp"
             android:layout_height="wrap_content"
             android:textColorHint="@color/greyText"
+            android:padding="10dp"
             android:theme="@style/EditScreenTextInputLayoutStyle">
 
             <com.google.android.material.textfield.TextInputEditText
@@ -36,11 +37,12 @@
             android:id="@+id/search_btn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginStart="10dp"
+            android:layout_marginStart="20dp"
             android:text="搜索"
             android:background="@drawable/button_bg_white"
             android:fontFamily="@font/lxgwwenkai"
             android:textSize="16sp"
+            android:padding="10dp"
             app:layout_constraintStart_toStartOf="@id/search"/>
 
         <com.google.android.material.button.MaterialButton
@@ -49,7 +51,9 @@
             android:text="布控"
             android:background="@drawable/button_bg_white"
             android:fontFamily="@font/lxgwwenkai"
-            android:textSize="16sp"/>
+            android:textSize="16sp"
+            android:padding="10dp"
+            android:layout_marginStart="500dp"/>
 
         <com.google.android.material.button.MaterialButton
             android:layout_width="wrap_content"
@@ -57,7 +61,9 @@
             android:text="取消布控"
             android:background="@drawable/button_bg_white"
             android:fontFamily="@font/lxgwwenkai"
-            android:textSize="16sp" />
+            android:textSize="16sp"
+            android:padding="10dp"
+            android:layout_marginStart="10dp"/>
 
     </LinearLayout>
 
