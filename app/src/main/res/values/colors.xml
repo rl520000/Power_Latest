@@ -10,6 +10,7 @@
     <color name="red">#FF0000</color>
     <color name="navy">#33ccff</color> <!--海军色 -->
     <color name="primaryBlue">#2196F3</color>
+
     <color name="grey">#cbcbcb</color>
     <color name="greyText">#999999</color>
     <color name="colorPrimary">@color/primaryBlue</color>

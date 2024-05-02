@@ -6,4 +6,24 @@
     <string name="system">系统管理</string>
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="type">
+        <item>全部</item>
+        <item>人脸识别</item>
+        <item>区域入侵</item>
+        <item>辐射探测值超限</item>
+    </string-array>
+    <string-array name="from">
+        <item>全部</item>
+        <item>人脸抓拍机</item>
+        <item>辐射探伤设备1</item>
+        <item>辐射探伤设备2</item>
+    </string-array>
+    <string-array name="state">
+        <item>全部</item>
+        <item>已解除</item>
+        <item>未确认</item>
+    </string-array>
+    <string-array name="date">
+        <item>2024-4-15  至  2024-4-15</item>
+    </string-array>
 </resources>
