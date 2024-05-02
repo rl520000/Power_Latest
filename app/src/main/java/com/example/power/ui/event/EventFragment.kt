@@ -11,6 +11,7 @@ import com.example.power.adapter.DarkAdapter
 import com.example.power.databinding.FragmentEventBinding
 import com.example.power.model.Event
 
+
 class EventFragment:Fragment() {
 
     private lateinit var binding: FragmentEventBinding
